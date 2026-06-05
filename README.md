@@ -168,3 +168,8 @@ GET
 ### Then
 
 Сервер повертає 401 Unauthorized.
+
+## Public Deployment
+
+Render URL:
+https://queuemate-89xm.onrender.com
